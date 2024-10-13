@@ -9,7 +9,7 @@
 - Additional Feature: Incorporates custom features derived from dataset observations to improve accuracy.
 
 # Additional Feature
-While developing this application, an additional feature was incorporated by closely analyzing the dataset and understanding the nuances of plagiarism detection. Specifically, the application includes token-based similarity metrics such as common word count, stop word intersections, and token position checks (e.g., first and last words matching). This feature was observed to significantly contribute to distinguishing plagiarized content from original content, thereby enhancing the model's predictive capabilities.
+While developing this application, an additional feature was incorporated by closely analyzing the MIT PLAGAIRISM DETECTION DATASET(https://www.kaggle.com/datasets/ruvelpereira/mit-plagairism-detection-dataset?resource=download) and understanding the nuances of plagiarism detection. Specifically, the application includes token-based similarity metrics such as common word count, stop word intersections, and token position checks (e.g., first and last words matching). This feature was observed to significantly contribute to distinguishing plagiarized content from original content, thereby enhancing the model's predictive capabilities.
 
 # Feature Engineering
 Extracted a combination of basic and advanced features:
