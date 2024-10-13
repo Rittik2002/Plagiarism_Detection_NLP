@@ -1,0 +1,6 @@
+distance
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
+nltk==3.2.4
+scikit-learn==1.2.2
